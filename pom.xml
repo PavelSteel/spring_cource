@@ -12,8 +12,9 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <maven.compiler.source>1.8</maven.compiler.source>
+    <maven.compiler.source>19</maven.compiler.source>
     <mavem.compiler.target>1.8</mavem.compiler.target>
+    <maven.compiler.target>19</maven.compiler.target>
   </properties>
 
   <dependencies>
