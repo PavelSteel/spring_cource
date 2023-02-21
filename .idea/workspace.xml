@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa54ecb6-f6dc-43ed-a318-3695aa01e631" name="Changes" comment="Dependency Injection // Test3, add class Person">
+    <list default="true" id="aa54ecb6-f6dc-43ed-a318-3695aa01e631" name="Changes" comment="Dependency Injection with setter">
+      <change afterPath="$PROJECT_DIR$/recources/myApp.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/recources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/recources/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/spring_introduction/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/spring_introduction/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +38,9 @@
         <option name="url" value="https://github.com/PavelSteel/spring_cource.git" />
       </UrlAndAccount>
     </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/spring_introduction/Person.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -147,7 +152,7 @@
       <workItem from="1676833839712" duration="284000" />
       <workItem from="1676834253651" duration="2864000" />
       <workItem from="1676906452211" duration="4280000" />
-      <workItem from="1677008434294" duration="2127000" />
+      <workItem from="1677008434294" duration="4293000" />
     </task>
     <task id="LOCAL-00001" summary="Create my first project Spring">
       <created>1676836218846</created>
@@ -191,7 +196,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677009853928</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Dependency Injection with setter">
+      <created>1677010861640</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1677010861640</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Dependency Injection with setter">
+      <created>1677011802850</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1677011802850</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,6 +234,7 @@
     <MESSAGE value="Create path spring_introduction, create applicationContext.xml" />
     <MESSAGE value="Test2: created context with XML" />
     <MESSAGE value="Dependency Injection // Test3, add class Person" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dependency Injection // Test3, add class Person" />
+    <MESSAGE value="Dependency Injection with setter" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dependency Injection with setter" />
   </component>
 </project>
